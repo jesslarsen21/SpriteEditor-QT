@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ClearIcon.png</file>
+        <file>eraser.png</file>
+        <file>eyedrop.png</file>
+        <file>paintBucket.png</file>
+        <file>pan.png</file>
+        <file>pen.png</file>
+        <file>Text.png</file>
+        <file>zoomIn.png</file>
+        <file>zoomout.png</file>
+        <file>circle.png</file>
+        <file>rectangle.png</file>
+        <file>Rotate_right_arrow.png</file>
+        <file>rotateLeft.png</file>
+        <file>line.png</file>
+        <file>flipH.png</file>
+        <file>flipV.png</file>
+        <file>shiftDown.jpg</file>
+        <file>shiftLeft.png</file>
+        <file>shiftRight icon.png</file>
+        <file>shiftUp.png</file>
+        <file>mirrorX.png</file>
+        <file>mirrorY.png</file>
+        <file>play.png</file>
+        <file>stop.png</file>
+    </qresource>
+</RCC>
